@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" fill="none" stroke="currentColor">
+  <g transform="translate(50 50)">
+    <circle cx="0" cy="0" r="32" stroke-width="8" stroke-dasharray="170 33" transform="rotate(-30)"/>
+    <circle cx="0" cy="0" r="5.5" fill="currentColor" stroke="none"/>
+  </g>
+  <text x="115" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="500" fill="currentColor" stroke="none" letter-spacing="-0.5">goodnet</text>
+</svg>
