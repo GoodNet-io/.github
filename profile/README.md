@@ -1,5 +1,7 @@
 # GoodNet
 
+[![Live demo](https://img.shields.io/badge/live%20demo-goodnet--io.github.io-cba6f7?style=for-the-badge&logo=githubpages&logoColor=white)](https://goodnet-io.github.io/)
+
 A networking integrator kernel — composer pattern, multi-path
 strategies, peer-key addressing, NAT traversal, real SSH replacement.
 The kernel knows about logical connections, typed messages, public-key
